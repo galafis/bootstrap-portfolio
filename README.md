@@ -13,10 +13,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://galafis.github.io/bootstrap-portfolio/)
 </p>
 
 --- 
-
 ## Sobre o Projeto
 
 Este repositório apresenta um portfólio profissional desenvolvido por Gabriel Demetrios Lafis, utilizando o framework Bootstrap para um design responsivo e moderno. O objetivo é demonstrar habilidades em desenvolvimento web front-end, com foco em usabilidade e estética.
@@ -27,8 +27,25 @@ This repository showcases a professional portfolio developed by Gabriel Demetrio
 
 --- 
 
-## Tecnologias Utilizadas
+## Funcionalidades
 
+*   **Design Responsivo:** O portfólio se adapta perfeitamente a diferentes tamanhos de tela, proporcionando uma excelente experiência de usuário em dispositivos móveis e desktops.
+*   **Navegação Intuitiva:** Menu de navegação claro e fácil de usar, permitindo acesso rápido às seções do portfólio.
+*   **Seções Bem Definidas:** Estrutura organizada com seções dedicadas a "Início", "Sobre Mim", "Projetos" e "Contato".
+*   **Formulário de Contato:** Um formulário simples e funcional para facilitar a comunicação.
+*   **Tecnologias Modernas:** Desenvolvido com HTML5, CSS3, JavaScript e Bootstrap 5 para garantir modernidade e robustez.
+
+## Features
+
+*   **Responsive Design:** The portfolio adapts seamlessly to various screen sizes, providing an excellent user experience on both mobile devices and desktops.
+*   **Intuitive Navigation:** Clear and easy-to-use navigation menu, allowing quick access to portfolio sections.
+*   **Well-Defined Sections:** Organized structure with dedicated sections for "Home", "About Me", "Projects", and "Contact."
+*   **Contact Form:** A simple and functional form to facilitate communication.
+*   **Modern Technologies:** Developed with HTML5, CSS3, JavaScript, and Bootstrap 5 to ensure modernity and robustness.
+
+--- 
+
+## Tecnologias Utilizadas
 | Tecnologia | Descrição |
 |---|---|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Linguagem de marcação para estruturação do conteúdo web. |
